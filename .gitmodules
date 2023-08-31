@@ -1,0 +1,4 @@
+[submodule "Adrsh-site2/public"]
+	path = Adrsh-site2/public
+	url = https://github.com/StormAD/Adarsh-site.com.git
+	branch = main
