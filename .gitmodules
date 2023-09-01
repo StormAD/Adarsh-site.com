@@ -2,3 +2,6 @@
 	path = Adrsh-site2/public
 	url = https://github.com/StormAD/Adarsh-site.com.git
 	branch = main
+[submodule "Adrsh-site3/themes/hugo-coder"]
+	path = Adrsh-site3/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
