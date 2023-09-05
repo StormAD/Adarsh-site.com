@@ -1,6 +1,0 @@
-baseURL = 'https://Adarsh-site.com/'
-languageCode = 'en-us'
-title = 'My task No 2'
-
-
-theme = "hugo-coder"
