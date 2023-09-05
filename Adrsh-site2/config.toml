@@ -1,7 +1,0 @@
-baseURL = 'http://Adarsh-site.com/'
-languageCode = 'en-us'
-title = 'My Task 02 site'
-
-theme = 'vncnt-hugo'
-
-tags = ['/about.md'] 
