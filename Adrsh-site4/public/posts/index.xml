@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adarsh John Sebastian</title>
+    <link>http://adarsh-site.com/posts/</link>
+    <description>Recent content in Posts on Adarsh John Sebastian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Sep 2023 23:02:57 +0530</lastBuildDate><atom:link href="http://adarsh-site.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st</title>
+      <link>http://adarsh-site.com/posts/1st/</link>
+      <pubDate>Tue, 05 Sep 2023 23:02:57 +0530</pubDate>
+      
+      <guid>http://adarsh-site.com/posts/1st/</guid>
+      <description>I am proud of myself for being able to make this website</description>
+    </item>
+    
+  </channel>
+</rss>

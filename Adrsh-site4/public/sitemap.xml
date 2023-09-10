@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://adarsh-site.com/posts/1st/</loc>
+    <lastmod>2023-09-05T23:02:57+05:30</lastmod>
+  </url><url>
+    <loc>http://adarsh-site.com/</loc>
+    <lastmod>2023-09-05T23:02:57+05:30</lastmod>
+  </url><url>
+    <loc>http://adarsh-site.com/posts/</loc>
+    <lastmod>2023-09-05T23:02:57+05:30</lastmod>
+  </url><url>
+    <loc>http://adarsh-site.com/about/</loc>
+    <lastmod>2023-09-05T22:48:09+05:30</lastmod>
+  </url><url>
+    <loc>http://adarsh-site.com/authors/</loc>
+  </url><url>
+    <loc>http://adarsh-site.com/categories/</loc>
+  </url><url>
+    <loc>http://adarsh-site.com/series/</loc>
+  </url><url>
+    <loc>http://adarsh-site.com/tags/</loc>
+  </url>
+</urlset>
