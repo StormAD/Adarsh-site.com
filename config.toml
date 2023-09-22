@@ -1,4 +1,4 @@
-baseurl = "http://adarsh-site.com/"
+baseurl = "https://stormad.github.io/Adarsh-site.com/"
 title = "Adarsh John Sebastian"
 theme = "hugo-coder"
 languagecode = "en"
